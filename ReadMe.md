@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Freelancer<br>🌱 I’m currently learning Docker<br>💬 How to reach me dev.kandemirosman@gmail.com<br>⚡ Fun fact
+🔭 I’m currently working on Freelancer<br>🌱 I’m currently learning MicroServices<br>💬 How to reach me dev.kandemirosman@gmail.com<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
